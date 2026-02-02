@@ -1,7 +1,3 @@
-Here is a professional and structured **README.md** file for your Pro-Bid project.
-
----
-
 # 🚀 Pro-Bid: Auction & Claim Management System
 
 Pro-Bid is a comprehensive **Auction Platform** where users can bid on items and winners can manage their claims. The project utilizes a modern **React.js** frontend interfaced with a **PHP (MySQL/MariaDB)** backend.
